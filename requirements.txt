@@ -1,0 +1,6 @@
+functions-framework
+flask
+firebase-admin
+openai
+pydub
+requests
